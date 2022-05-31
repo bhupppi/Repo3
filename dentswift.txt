@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 3E4C-E34A
+
+ Directory of C:\Users\nisha\OneDrive\Desktop\Dentswift
+
+31-05-2022  13:16    <DIR>          .
+31-05-2022  12:25    <DIR>          ..
+31-05-2022  13:16                 0 dentswift.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  42,299,756,544 bytes free
